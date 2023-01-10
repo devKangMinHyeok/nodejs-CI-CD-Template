@@ -1,0 +1,17 @@
+{
+  "name": "ci-cd-test2",
+  "version": "1.0.0",
+  "description": "ci-cd-test2",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devKangMinHyeok/ci-cd-test2.git"
+  },
+  "author": "minhyeok Kang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/devKangMinHyeok/ci-cd-test2/issues"
+  },
+  "homepage": "https://github.com/devKangMinHyeok/ci-cd-test2#readme"
+}
