@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/devKangMinHyeok/ci-cd-test2#readme",
   "devDependencies": {
+    "@babel/core": "^7.20.12",
+    "@babel/preset-env": "^7.20.2",
     "eslint": "^8.31.0",
     "eslint-config-prettier": "^8.6.0",
     "eslint-config-standard": "^17.0.0",
