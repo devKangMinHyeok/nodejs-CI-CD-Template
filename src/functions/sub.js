@@ -1,3 +1,3 @@
-export const sub = (a, b) => {
-  return a - b;
+export const sub = (x, y) => {
+  return x - y;
 };
